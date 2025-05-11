@@ -1,14 +1,17 @@
 {
   "files": {
     "main.css": "./static/css/main.3123f634.css",
-    "main.js": "./static/js/main.902b9da8.js",
+    "main.js": "./static/js/main.9452d87a.js",
     "static/css/64.bba8fa55.chunk.css": "./static/css/64.bba8fa55.chunk.css",
     "static/js/64.56dc6704.chunk.js": "./static/js/64.56dc6704.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "./static/css/769.b3cbb36b.chunk.css",
     "static/js/769.bda0d7b7.chunk.js": "./static/js/769.bda0d7b7.chunk.js",
+    "static/media/nlc.png": "./static/media/nlc.88f2a607eb4bca6ae9c1.png",
     "static/media/Montserrat-Regular.ttf": "./static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
     "static/media/resume.pdf": "./static/media/resume.5513e59fc81c2f9442d2.pdf",
+    "static/media/ISACA.png": "./static/media/ISACA.a4132fa2c2d8cd0571e2.png",
     "static/media/Agustina.woff": "./static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/redhat.png": "./static/media/redhat.760f9e6defeb0ad40b67.png",
     "static/media/high-availability-project.png": "./static/media/high-availability-project.063a9cc3e09b6eaf22dc.png",
     "static/media/manOnTable.svg": "./static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
     "static/media/yeshivaLogo.png": "./static/media/yeshivaLogo.c03fd5ed302301493afd.png",
@@ -17,15 +20,14 @@
     "static/media/simbisaLogo.png": "./static/media/simbisaLogo.0d73d7f2d629061811a7.png",
     "static/media/developerActivity.svg": "./static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
     "static/media/aws-optimization.png": "./static/media/aws-optimization.40b5543aed03c22eae18.png",
-    "static/media/googleAssistantLogo.webp": "./static/media/googleAssistantLogo.f720c71652579588524a.webp",
+    "static/media/cyberbit.png": "./static/media/cyberbit.d397d29e371e320de6d9.png",
+    "static/media/isc2.png": "./static/media/isc2.313bcd726c7dbe731059.png",
     "static/media/nmbBankLogo.png": "./static/media/nmbBankLogo.a94d9d4d1ad0b653bbb0.png",
-    "static/media/codeInLogo.webp": "./static/media/codeInLogo.e41a71d512efeda2a55c.webp",
     "static/media/skill.svg": "./static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
-    "static/media/pwaLogo.webp": "./static/media/pwaLogo.8bf2293da0ca66249e37.webp",
     "index.html": "./index.html",
     "static/media/talksCardBack.svg": "./static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.3123f634.css.map": "./static/css/main.3123f634.css.map",
-    "main.902b9da8.js.map": "./static/js/main.902b9da8.js.map",
+    "main.9452d87a.js.map": "./static/js/main.9452d87a.js.map",
     "64.bba8fa55.chunk.css.map": "./static/css/64.bba8fa55.chunk.css.map",
     "64.56dc6704.chunk.js.map": "./static/js/64.56dc6704.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "./static/css/769.b3cbb36b.chunk.css.map",
@@ -33,6 +35,6 @@
   },
   "entrypoints": [
     "static/css/main.3123f634.css",
-    "static/js/main.902b9da8.js"
+    "static/js/main.9452d87a.js"
   ]
 }
