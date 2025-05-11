@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.3123f634.css",
-    "main.js": "./static/js/main.d96447f9.js",
+    "main.js": "./static/js/main.f12eccfd.js",
     "static/css/64.bba8fa55.chunk.css": "./static/css/64.bba8fa55.chunk.css",
     "static/js/64.56dc6704.chunk.js": "./static/js/64.56dc6704.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "./static/css/769.b3cbb36b.chunk.css",
@@ -9,7 +9,7 @@
     "static/media/nlc.png": "./static/media/nlc.88f2a607eb4bca6ae9c1.png",
     "static/media/Montserrat-Regular.ttf": "./static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
     "static/media/ISACA.png": "./static/media/ISACA.a4132fa2c2d8cd0571e2.png",
-    "static/media/resume.pdf": "./static/media/resume.d97bdc2250227a435f6c.pdf",
+    "static/media/resume.pdf": "./static/media/resume.16ae743e014e7e184713.pdf",
     "static/media/Agustina.woff": "./static/media/Agustina.eb0c59dda4cc308cba96.woff",
     "static/media/redhat.png": "./static/media/redhat.760f9e6defeb0ad40b67.png",
     "static/media/high-availability-project.png": "./static/media/high-availability-project.063a9cc3e09b6eaf22dc.png",
@@ -27,7 +27,7 @@
     "index.html": "./index.html",
     "static/media/talksCardBack.svg": "./static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.3123f634.css.map": "./static/css/main.3123f634.css.map",
-    "main.d96447f9.js.map": "./static/js/main.d96447f9.js.map",
+    "main.f12eccfd.js.map": "./static/js/main.f12eccfd.js.map",
     "64.bba8fa55.chunk.css.map": "./static/css/64.bba8fa55.chunk.css.map",
     "64.56dc6704.chunk.js.map": "./static/js/64.56dc6704.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "./static/css/769.b3cbb36b.chunk.css.map",
@@ -35,6 +35,6 @@
   },
   "entrypoints": [
     "static/css/main.3123f634.css",
-    "static/js/main.d96447f9.js"
+    "static/js/main.f12eccfd.js"
   ]
 }
